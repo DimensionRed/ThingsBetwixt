@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tbetwixt",
+  "name": "Things Betwixt",
+  "description": "A small addition to interdimensional teleportation which makes it possible through Void. Configurable. [WARNING: DO NOT USE DIMENSION ID - 100]",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DimensionRed"],
+  "credits": "Thanks to Forge, FML, Mojang and every one of you out there who still remembers 1.7.10",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,48 @@
+config.tbetwixt.fromOverworld=Overworld void leads to
+config.tbetwixt.teleportFromOverworldTo=ID of the dimension to teleport from Overworld
+config.tbetwixt.fromNether=Nether void leads to
+config.tbetwixt.teleportFromNetherTo=ID of the dimension to teleport from Nether
+config.tbetwixt.fromEnd=End void leads to
+config.tbetwixt.teleportFromEndTo=ID of the dimension to teleport from End
+config.tbetwixt.slots=Available slots [PLEASE DO NOT CHANGE!]
+config.tbetwixt.slotsNumber=Number of custom teleportation slots. DO NOT CHANGE THAT
+
+
+config.tbetwixt.customFromId=ID of the dimension to teleport from for custom slot:
+config.tbetwixt.customToId=ID of the dimension to teleport to for custom slot:
+config.tbetwixt.customYCoordinate=Y-coordinate for custom slot:
+
+config.tbetwixt.fromID_1=§6From
+config.tbetwixt.toID_1=§6To
+config.tbetwixt.YCoordinate_1=§6Y Coordinate
+config.tbetwixt.fromID_2=§cFrom
+config.tbetwixt.toID_2=§cTo
+config.tbetwixt.YCoordinate_2=§cY Coordinate
+config.tbetwixt.fromID_3=§bFrom
+config.tbetwixt.toID_3=§bTo
+config.tbetwixt.YCoordinate_3=§bY Coordinate
+config.tbetwixt.fromID_4=§9From
+config.tbetwixt.toID_4=§9To
+config.tbetwixt.YCoordinate_4=§9Y Coordinate
+config.tbetwixt.fromID_5=§aFrom
+config.tbetwixt.toID_5=§aTo
+config.tbetwixt.YCoordinate_5=§aY Coordinate
+
+
+config.tbetwixt.activationState=If set to 'false' - deactivates mod features. Why even bother downloading it then?
+config.tbetwixt.activation=Mod Activation
+
+config.tbetwixt.basic=Basic Dimensions
+config.tbetwixt.basicState=If set to false the mod will ignore ids set to Overworld, Nether and End teleportation parameters (NOT including IDs in slots 1-5)
+config.tbetwixt.basicY=Basic Y-Coordinate
+config.tbetwixt.basicYCoordinate=Y-Coordinate in which the player is being teleported to the new dimension from the Void of the Overworld, the Nether and the End
+
+config.tbetwixt.restart= [EDITING PARAMETERS REQUIRES RESTARTING THE GAME]]
+
+# end of list
+
+mod.name=Things Betwixt
+mod.description=A small addition to interdimensional teleportation which makes it possible through Void. Configurable. [WARNING: DO NOT USE DIMENSION ID - 100]
+mod.url=
+mod.author=DimensionRed
+mod.credits=Thanks to Forge, FML, Mojang and every one of you out there who still remembers 1.7.10

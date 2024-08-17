@@ -1,0 +1,48 @@
+config.tbetwixt.fromOverworld=Куда ведёт Верхний мир
+config.tbetwixt.teleportFromOverworldTo=ID измерения, куда игрок попадет через пропасть в Верхнем мире
+config.tbetwixt.fromNether=Куда ведёт Незер
+config.tbetwixt.teleportFromNetherTo=ID измерения, куда игрок попадет через пропасть в Незере
+config.tbetwixt.fromEnd=Куда ведёт Край
+config.tbetwixt.teleportFromEndTo=ID измерения, куда игрок попадет через пропасть в Крае
+config.tbetwixt.slots=Доступные слоты [ПРОШУ, НЕ МЕНЯТЬ!]
+config.tbetwixt.slotsNumber=Количество доступных для настройки 'переходов' через измерения. ПОЖАЛУЙСТА, НЕ МЕНЯТЬ!
+
+
+config.tbetwixt.customFromId=ID измерения из пропасти которого игрок попадет в другие измерения. Слот:
+config.tbetwixt.customToId=ID измерения куда игрок попадает из измерения в слоте. Слот:
+config.tbetwixt.customYCoordinate=Y-координата, в которую игрок попадёт при переходе через измерения. Слот:
+
+config.tbetwixt.fromID_1=§6Откуда
+config.tbetwixt.toID_1=§6Куда
+config.tbetwixt.YCoordinate_1=§6Координата Y
+config.tbetwixt.fromID_2=§сОткуда
+config.tbetwixt.toID_2=§сКуда
+config.tbetwixt.YCoordinate_2=§сКоордината Y
+config.tbetwixt.fromID_3=§bОткуда
+config.tbetwixt.toID_3=§bКуда
+config.tbetwixt.YCoordinate_3=§bКоордината Y
+config.tbetwixt.fromID_4=§9Откуда
+config.tbetwixt.toID_4=§9Куда
+config.tbetwixt.YCoordinate_4=§9Координата Y
+config.tbetwixt.fromID_5=§aОткуда
+config.tbetwixt.toID_5=§aКуда
+config.tbetwixt.YCoordinate_5=§aКоордината Y
+
+
+config.tbetwixt.activationState=Если false - мод не будет производить телепортации. Зачем вы его тогда вообще скачали?
+config.tbetwixt.activation=Включение мода
+
+config.tbetwixt.basic=Основные измерения
+config.tbetwixt.basicState=Если false - мод проигнорирует телепортации из пустот Верхнего мира, Незера и Края, если только они не установлены ещё и в дополнительных слотах 1-5
+config.tbetwixt.basicY=Основная координата Y
+config.tbetwixt.basicYCoordinate=Координата Y на которую игрок попадает в новое измерение из пустот Верхнего мира, Незера и Края
+
+config.tbetwixt.restart= [ДЛЯ ИЗМЕНЕНИЯ НЕОБХОДИМ ПЕРЕЗАПУСК ИГРЫ]
+
+# Repeat similarly for other slots
+
+mod.name=Things Betwixt
+mod.description=Небольшой мод, добавляющий возможность перемещения между измерениями через Пустоту. Гибко-настраевомая система в конфигурации. [ВАЖНО: Не использовать ID измерения 100]
+mod.url=
+mod.author=DimensionRed
+mod.credits=Спасибо Forge, FML, Mojang и всем тем, кто ещё играет на 1.7.10
